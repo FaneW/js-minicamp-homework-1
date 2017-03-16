@@ -10,6 +10,19 @@
 	* `if` statements
 	* Boolean values (`true`, `false`)
 
+	
+	variables = a codename for an item or number that you can use over and over again 
+				and also cange the meaning of.
+					
+	Strings = a list of items kept together with a codeword.
+	
+	Functions = directions to do something
+	
+	if statements = a this or that situation. ex: if the item is orange I like it, if not I don't like it.
+	
+	Boolean Values = a yes or no question.
+	
+	
 
 2. Install Node and NPM.  NPM comes packaged with Node. https://nodejs.org/en/download/
 
